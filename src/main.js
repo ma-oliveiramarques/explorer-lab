@@ -40,7 +40,6 @@ const expirationDatePattern = {
       mask: IMask.MaskedRange,
       from: 1,
       to: 12
-    }
-
-  }
+    },
+  },
 }
