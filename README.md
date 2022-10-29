@@ -39,10 +39,50 @@ O Rocketpay é um componente que simula o formulário de preenchimento de cartã
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
+## ⚙️ Setup
+
+### Para correr o programa localmente
+
+Crie e abra o diretório onde você quiser localizar o repositório
+
+```bash
+cd directory
+```
+
+Clone o projeto
+
+```bash
+git clone https://github.com/ma-oliveiramarques/explorer-lab.git
+```
+
+Ir para o diretório do projeto
+
+```bash
+cd explorer-lab
+```
+
+Abrir o projeto no Visual Studio Code
+
+```bash
+code .
+```
+
+Para instalar as dependências do projeto
+
+```bash
+npm install
+```
+
+Para correr o programa
+
+```bash
+npm run dev
+```
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ com a colaboração da Rocketseat :wave: [Participe da comunidade!](https://discord.gg/rocketseat)
